@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: pink;
+    background-color: #E11299;
   }
   
   li {
@@ -35,36 +35,41 @@ img {
 /* Termino de imagenes */
 
 /* inicio texto */
-@font-face {
-  font-family: 'Barlow';
-  src: url(/Fuentes/Barlow_Semi_Condensed/BarlowSemiCondensed-Bold.ttf);
-  font-weight: bold;
-  font-style: bold;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&display=swap');
+
 /* termino texto */
 
 /*color del fondo */
 body{
-  background-color:  #ffeee6;
+  background-color:  #9A208C;
 }
 
 h1{
-  color: white;
+  color: #FFEAEA;
   text-align: center;
-  font-family: 'Barlow';
-  font-weight: bold;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
 }
 
 h2{
-  color: white;
+  color: #FFEAEA;
   text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
 }
  p{
-  color: white;
+  color: #FFEAEA;
   text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
  }
 
-
+a{
+  color: #FFEAEA;
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
+}
 /* termino del color*/
 
   
