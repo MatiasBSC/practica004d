@@ -1,0 +1,47 @@
+/* inicia barra de navegacion*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: pink;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+/* termina barra de navegacion*/
+
+/* Inicio de imagenes */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+
+li {
+    display: inline;
+}
+div.polaroid {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+div.container {
+  padding: 10px;
+}
+/* Termino de imagenes */
+  
