@@ -25,23 +25,11 @@ ul {
 /* termina barra de navegacion*/
 
 /* Inicio de imagenes */
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    }
-
-li {
-    display: inline;
-}
-div.polaroid {
-  width: 250px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  text-align: center;
-}
-
-div.container {
-  padding: 10px;
+img {
+  border-radius: 50%;
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 /* Termino de imagenes */
+
+/* inicio texto */
   
