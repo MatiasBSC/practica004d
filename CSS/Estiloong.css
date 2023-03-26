@@ -28,14 +28,21 @@ ul {
 img {
   width: 350px;
   height: 350px;
-
-  border-radius: 8px;
+  border-radius: 50px;
   box-shadow: 0 0 10px 10px pink
 }
+
 /* Termino de imagenes */
 
 /* inicio texto */
   @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&display=swap');
+
+  h3{
+    color: #FFEAEA;
+    text-align: left;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 700;
+  }
 
 /* termino texto */
 
@@ -79,4 +86,15 @@ dl{
 }
 /* termino del color*/
 
+/* tabla */
+table, th, td {
+  border: 1px solid #FFEAEA;
+  border-collapse: collapse;
+  background-color: #E11299;
+
+  color: #FFEAEA;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
+}
+/* termino tabla*/
   
